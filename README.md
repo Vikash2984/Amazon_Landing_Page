@@ -5,11 +5,11 @@ This repository is dedicated to fundamentals of HTML (Hyper Text Markup Language
 <ul>
   <hr>
   <li>
-    HTML Notes : 
+    <a src = 'https://drive.google.com/file/d/1HJNu2YLAAmvlu0crRMFetwTEUpMAx39f/view?usp=drive_link'>HTML</a>
   </li>
   <hr>
   <li>
-    CSS Notes
+    CSS Notes 
   </li>
   <hr>
 </ul>
