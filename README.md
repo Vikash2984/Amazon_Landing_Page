@@ -5,7 +5,7 @@ This repository is dedicated to fundamentals of HTML (Hyper Text Markup Language
 <ul>
   <hr>
   <li>
-    <a href = 'https://drive.google.com/file/d/1HJNu2YLAAmvlu0crRMFetwTEUpMAx39f/view?usp=drive_link' target = '_blank'>HTML Notes</a>
+    <a href = 'https://drive.google.com/file/d/1HJNu2YLAAmvlu0crRMFetwTEUpMAx39f/view?usp=drive_link'>HTML Notes</a>
   </li>
   <hr>
   <li>
