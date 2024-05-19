@@ -11,4 +11,5 @@ This repository is dedicated to fundamentals of HTML (Hyper Text Markup Language
   <li>
     CSS Notes
   </li>
+  <hr>
 </ul>
