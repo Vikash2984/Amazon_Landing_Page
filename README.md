@@ -5,11 +5,11 @@ This repository is dedicated to fundamentals of HTML (Hyper Text Markup Language
 <ul>
   <hr>
   <li>
-    <a href = 'https://drive.google.com/file/d/1HJNu2YLAAmvlu0crRMFetwTEUpMAx39f/view?usp=drive_link'>HTML</a>
+    <a href = 'https://drive.google.com/file/d/1HJNu2YLAAmvlu0crRMFetwTEUpMAx39f/view?usp=drive_link'>HTML Notes</a>
   </li>
   <hr>
   <li>
-    CSS Notes 
+    <a href = 'https://drive.google.com/file/d/1eUiu0I-Xst64SZXR7ZMqRCGsruSK0LIo/view?usp=drive_link'>CSS Notes</a> 
   </li>
   <hr>
 </ul>
