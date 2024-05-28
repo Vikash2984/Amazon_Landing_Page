@@ -17,6 +17,10 @@ This repository is dedicated to fundamentals of HTML (Hyper Text Markup Language
 <ul>
   <hr>
   <li>
+    <a href = 'https://geekster-in.notion.site/HTML-CSS-bfc1d7a2472e43658be7a56e640c431f'>Geekster Resource</a>
+  </li>
+  <hr>
+  <li>
     <a href = 'https://drive.google.com/file/d/1HJNu2YLAAmvlu0crRMFetwTEUpMAx39f/view?usp=drive_link'>HTML Notes</a>
   </li>
   <hr>
